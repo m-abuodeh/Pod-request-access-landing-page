@@ -14,7 +14,7 @@ body {
   background-position-y: center;
 }
 .navbar {
-  padding-top: 5%;
+  padding-top: 10%;
   display: flex;
   margin-left: 12%;
 }
@@ -24,7 +24,7 @@ body {
   height: 509px;
   background-color: #121725;
   margin-left: 12%;
-  margin-top: 10%;
+  margin-top: 5%;
   padding-top: 5%;
   box-sizing: border-box;
 }
@@ -71,7 +71,7 @@ body {
   background-color: #54e6af;
 }
 .formDiv {
-  margin-bottom: 5%;
+  margin-bottom: 10%;
 }
 .logos {
   width: 536px;
