@@ -94,3 +94,8 @@ body {
   bottom: 10%;
   background: transparent;
 }
+
+.wrongMessage {
+  color: red;
+  font-weight: 300;
+}
